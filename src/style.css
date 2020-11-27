@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: Montserrat;
+}
+
+.container {
+  margin-left: auto;
+  font-family: Montserrat;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  text-align: center;
+  color: #000000;
+}
+
+/* .icon-accomodation {
+  background-image: image-url('img/pin-accomodation.svg');
+}
+
+.icon-metime {
+  background-image: image-url('img/pin-metime.svg');
+}
+
+.icon-mustdo {
+  background-image: image-url('img/pin-mustdo.svg');
+}
+
+.icon-restaurant {
+  background-image: image-url('img/pin-restaurant.svg');
+} */
